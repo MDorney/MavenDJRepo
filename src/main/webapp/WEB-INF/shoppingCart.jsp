@@ -34,7 +34,7 @@
     <div class="collapse navbar-collapse" id="defaultNavbar1">
       <ul class="nav navbar-nav">
         <li class="active"><a href="#">Home<span class="sr-only">(current)</span></a></li>
-        <li><a href="productList.html">Products</a></li>
+        <li><a href="ProductController">Products</a></li>
         <li class="dropdown"><a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">Account<span class="caret"></span></a>
           <ul class="dropdown-menu" role="menu">
             <li><a href="#">My Account</a></li>

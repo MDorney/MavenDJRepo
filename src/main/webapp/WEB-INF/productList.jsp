@@ -37,7 +37,7 @@
     <div class="collapse navbar-collapse" id="defaultNavbar1">
       <ul class="nav navbar-nav">
         <li class="active"><a href="#">Home<span class="sr-only">(current)</span></a></li>
-        <li><a href="productList.html">Products</a></li>
+        <li><a href="ProductController">Products</a></li>
         <li class="dropdown"><a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">Account<span class="caret"></span></a>
           <ul class="dropdown-menu" role="menu">
             <li><a href="#">My Account</a></li>
@@ -61,7 +61,7 @@
           </ul>
         </li>
 		<form class="navbar-form navbar-left" role="search">
-        <div class="form-group">
+        <div class="form-group" action="">
           <input type="text" class="form-control" placeholder="Search">
         </div>
         <button type="submit" class="btn btn-default">Submit</button>
